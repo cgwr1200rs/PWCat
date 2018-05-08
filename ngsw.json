@@ -21,6 +21,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/PWCat/assets/apple-touch-icon.png",
         "/PWCat/assets/icon-128x128.png",
         "/PWCat/assets/icon-152x152.png",
         "/PWCat/assets/icon-256x256.png",
@@ -32,14 +33,15 @@
   "dataGroups": [],
   "hashTable": {
     "/PWCat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/PWCat/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
+    "/PWCat/assets/apple-touch-icon.png": "5641e0113e8b79eff2b250899b0df91f4fcf98f4",
     "/PWCat/main.bce6a2564dd54cd3ef67.bundle.js": "c63bd61a4205d9a90e3dd291152d5b4bf776172d",
-    "/PWCat/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
+    "/PWCat/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
     "/PWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
-    "/PWCat/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
+    "/PWCat/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
     "/PWCat/styles.b2174450da214802a3ff.bundle.css": "4ce050a58a63697be588f7d6df391f6ea2aa76bc",
-    "/PWCat/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
+    "/PWCat/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
     "/PWCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PWCat/index.html": "1d2158abb343047b5926334f14f6b425da694ccd"
+    "/PWCat/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
+    "/PWCat/index.html": "79b26ca149a64f0776bccb94f4b0a4fa2c45e9ee"
   }
 }
