@@ -2109,7 +2109,7 @@ class Driver {
         // First, check whether the event has a client ID. If it does, the version may
         // already be associated.
         const clientId = event.clientId;
-        if (clientId !== null) {
+        if (clientId !== null && clientId !== '') {
             // Check if there is an assigned client id.
             if (this.clientVersionMap.has(clientId)) {
                 // There is an assignment for this client already.
